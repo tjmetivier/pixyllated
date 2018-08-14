@@ -4,7 +4,7 @@ email:       tylerphys@uconn.edu
 author:      Tyler Metivier
 description: "Welcome to the UConn Physics Club webpage! Here you can find information about us, see what we’ve been up to, find out how to locate us, and even contact us if you’d like. The UConn Physics Club is a Tier II organization at the University of Connecticut. We are run by undergraduate physics majors."
 baseurl:     "/pixyllated"
-url:         "jdwallace12.github.io/pixyllated/"
+url:         "https://tjmetivier.github.io/pixyllated/"
 date_format: "%b %-d, %Y"
 
 # Google services
