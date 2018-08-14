@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  The Shitty $60 Closet Organizer Standing Desk
-subtitle: Building a standing desk
-description: Sitting all day can put a lot of strain on your body and there are numerous studies showing the negative affects on the body.  I have also heard of studies claiming the opposite and claiming that standing can causing stress to your legs and is worst than sitting. 
-date:   2016-01-9 20:08:05
-categories: furniture
+title:  Welcome
+subtitle: What we do at Physics Club...
+description: Welcome to the UConn Physics Club webpage! Here you can find information about us, see what we’ve been up to, find out how to locate us, and contact us if you’d like. 
+date:
+categories: physics
 featured-image: http://jdwallace12.github.io/images/standing-desk-featured.jpg
 thumbnail-image: http://jdwallace12.github.io/images/standing-desk-1-small.jpg
 comments: true
-author: John Wallace
+author: Tyler Metivier, President
 author-image: /images/john-wallace.jpg
-author-bio: I love playing outside, fort building, and skiing powder with my wife and dog.  Currently a front end devloper at AppNeta.
+author-bio: President of the UConn Physics Club. And your friend.
 ---
 Sitting all day can put a lot of strain on your body and there are numerous studies showing the negative affects on the body.  I have also heard of studies claiming the opposite and claiming that standing can causing stress to your legs and is worst than sitting.  This reminds me of  a skit from the show Portland where a couple reads endless series of conflicting studies and end up dying from confusion.  My solution is to alternate between sitting and standing all day. 
 
