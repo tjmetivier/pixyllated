@@ -20,7 +20,7 @@
          <p>Currently Reading:</p>
         <h2>{{ page.title }}</h2>
         <div class="post-meta">{{ page.date | date: site.date_format }} </div>
-        <a class="post-meta"  href="/uconn_phys_club/_posts/newpost.markdown">
+        <a class="post-meta"  href="/blob/gh-pages/uconn_phys_club/_posts/newpost.markdown">
         {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %} {% if minutes == 0 %} {% assign minutes = 1 %} {% endif %}
          <span class="post-meta small">
   {% if page.minutes %}
