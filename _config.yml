@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyllated
-email:       jdwallace12@example.com
-author:      John Wallace
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       UConn Physics Club
+email:       tylerphys@uconn.edu
+author:      Tyler Metivier
+description: "Welcome to the UConn Physics Club webpage! Here you can find information about us, see what we’ve been up to, find out how to locate us, and even contact us if you’d like. The UConn Physics Club is a Tier II organization at the University of Connecticut. We are run by undergraduate physics majors."
 baseurl:     "/pixyllated"
 url:         "jdwallace12.github.io/pixyllated/"
 date_format: "%b %-d, %Y"
@@ -30,10 +30,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: tjmetivier
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: tylermetivier
 skype_username:
 steam_nickname:
 google_plus_id:
