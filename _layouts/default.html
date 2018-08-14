@@ -18,11 +18,7 @@
     </script>
     {% endif %}
     <div class="scroll-title">
-         <p>Currently Reading:</p>
-        <h2>{{ page.title }}</h2>
-        <div class="post-meta">{{ page.date | date: site.date_format }} href='uconn_phys_club/_posts/newpost.markdown'</div>
-        {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %} {% if minutes == 0 %} {% assign minutes = 1 %} {% endif %}
-         <span class="post-meta small">
+         <h1 "Welcome" href='_posts/newpost.markdown'>
   {% if page.minutes %}
     {{ page.minutes }} {{ site.text.post.minute_read }}
   {% else %}
