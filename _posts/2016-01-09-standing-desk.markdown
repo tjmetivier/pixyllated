@@ -5,11 +5,11 @@ subtitle: What we do at Physics Club...
 description: Welcome to the UConn Physics Club webpage! Here you can find information about us, see what we’ve been up to, find out how to locate us, and contact us if you’d like. 
 date:
 categories: physics
-featured-image: http://jdwallace12.github.io/images/standing-desk-featured.jpg
+featured-image: physcl.jpg
 thumbnail-image: http://jdwallace12.github.io/images/standing-desk-1-small.jpg
 comments: true
 author: Tyler Metivier, President
-author-image: /images/john-wallace.jpg
+author-image: tyler.jpg
 author-bio: President of the UConn Physics Club. And your friend.
 ---
 Sitting all day can put a lot of strain on your body and there are numerous studies showing the negative affects on the body.  I have also heard of studies claiming the opposite and claiming that standing can causing stress to your legs and is worst than sitting.  This reminds me of  a skit from the show Portland where a couple reads endless series of conflicting studies and end up dying from confusion.  My solution is to alternate between sitting and standing all day. 
